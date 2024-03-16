@@ -9,5 +9,6 @@ int o=20; and praveen
   System.out.println("hi praveen");
 int x=10;
   int i=0;
+String name="praveen";
 }
 }
