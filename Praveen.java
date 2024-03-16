@@ -2,6 +2,7 @@ class Praveen
 {
 public static void main(String args[])
 {
-System.out.println("hi praveen");
+int k=1;
+  System.out.println("hi praveen");
 }
 }
