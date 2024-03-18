@@ -14,5 +14,6 @@ int x=10;
 //aa-102
 public void m2(){
 int k =0;
+  int g=20;
 }
 }
