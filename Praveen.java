@@ -10,4 +10,9 @@ int o=20; and praveen
 int x=10;
   int i=0;
 }
+
+//aa-102
+public void m2(){
+
+}
 }
